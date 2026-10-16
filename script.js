@@ -59,7 +59,7 @@ function playMidnightChime() {}
 })();
 
 /* ─── SHINCHAN PASSCODE VERIFICATION (4 DIGITS) ─── */
-const TARGET_PASSCODE = "2005"; // 4-digit passcode
+const TARGET_PASSCODE = "2510"; // 4-digit passcode
 
 const SHINCHAN_GIFS = {
   ask: "assets/shinchan-birthday.png",
@@ -471,7 +471,7 @@ const LETTER_SECTIONS = [
   },
   {
     id: 'letter-p1-el',
-    text: "I hope this year brings you everything you've been wishing for and so much more. Thank you for making my days happier, my bad days easier, and my life a little more beautiful just by being in it. 🥺💖"
+    text: "Ni en life la rba spl aana person and unexpected aana bonding unkuta......en amma aprm unkuta matum ta inta mari bonding iruku something spl 🥺💖"
   },
   {
     id: 'letter-p2-el',
@@ -479,7 +479,7 @@ const LETTER_SECTIONS = [
   },
   {
     id: 'letter-closing-el',
-    text: "Happy birthday, my love. I love you more than you know. 🫶🏻🎂❤️"
+    text: "Happy birthday, niranjaneeeeee. inta year unaku rba happy ah irukum na unkuta epayum iruppa........ 🫶🏻🎂❤️"
   }
 ];
 
